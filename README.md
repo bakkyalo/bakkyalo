@@ -1,4 +1,14 @@
+<!--
 ## Hi there 👋
+![bakkyalo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bakkyalo&count_private=true&theme=github_dark_dimmed)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=bakkyalo&layout=compact&theme=github_dark_dimmed&hide=jupyter%20notebook&langs_count=8)
+-->
+
+<p align="left"> 
+  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakkyalo&layout=compact&theme=github_dark_dimmed&hide=jupyter%20notebook&langs_count=8" />
+  &nbsp;
+  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=bakkyalo&count_private=true&theme=github_dark_dimmed" />
+</p>
 
 <!--
 **bakkyalo/bakkyalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
