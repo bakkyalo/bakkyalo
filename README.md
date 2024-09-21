@@ -8,7 +8,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakkyalo&layout=compact&theme=github_dark_dimmed&hide=jupyter%20notebook&langs_count=8" /></a>
   &nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=bakkyalo&count_private=true&theme=github_dark_dimmed" />
+    <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=bakkyalo&count_private=true&show_icons=true&theme=github_dark_dimmed" />
   </a>
 </p>
 
